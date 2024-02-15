@@ -1,0 +1,11 @@
+{
+  "name": "my-remix-app",
+  "version": "1.0.0",
+  "description": "My Remix application",
+  "scripts": {
+    "start": "npx @remix-run/cli run"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.22.0"
+  }
+}
